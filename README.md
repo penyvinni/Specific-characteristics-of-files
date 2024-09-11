@@ -1,4 +1,4 @@
-# Specific Characteristics from files**
+# Specific Characteristics from files
 
 <hr>
 
